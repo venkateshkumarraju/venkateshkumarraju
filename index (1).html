@@ -1,0 +1,64 @@
+<svg fill="none" viewBox="0 0 800 100" width="800" height="100" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        @keyframes gradientText {
+          0% {
+            background-position: 0% 50%;
+          }
+          50% {
+            background-position: 100% 50%;
+          }
+          100% {
+            background-position: 0% 50%;
+          }
+        }
+        .bubble {
+          background: rgba(255, 255, 255, 0.5);
+          border-radius: 50%;
+          position: fixed;
+          top: -10%;
+          z-index: 9999;
+          width: 20px;
+          height: 20px;
+          animation: bubbles-fall 10s linear infinite, bubbles-shake 3s ease-in-out infinite;
+        }
+        @keyframes bubbles-fall {
+          0% { top: -10%; }
+          100% { top: 100%; }
+        }
+        @keyframes bubbles-shake {
+          0% { transform: translateX(0px); }
+          50% { transform: translateX(80px); }
+          100% { transform: translateX(0px); }
+        }
+        h1 {
+          font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+          margin: 0;
+          font-size: 4em;
+          font-weight: 900;
+          letter-spacing: -.05em;
+          text-align: center;
+          background: -webkit-linear-gradient(right, #3828ca, #ff004c);
+          background: linear-gradient(270deg, #3828ca 0, #ff004c);
+          background-size: 200%;
+          background-clip: text;
+          -webkit-background-clip: text;
+          -webkit-text-fill-color: transparent;
+          -webkit-animation: gradientText 3s ease infinite;
+          animation: gradientText 3s ease infinite;
+        }
+      </style>
+      <h1>Venkatesh kumar Raju </h1>
+      <div xmlns="http://www.w3.org/1999/xhtml" class="bubble" style="left: 10%;"></div>
+      <div xmlns="http://www.w3.org/1999/xhtml" class="bubble" style="left: 20%;"></div>
+      <div xmlns="http://www.w3.org/1999/xhtml" class="bubble" style="left: 30%;"></div>
+      <div xmlns="http://www.w3.org/1999/xhtml" class="bubble" style="left: 40%;"></div>
+      <div xmlns="http://www.w3.org/1999/xhtml" class="bubble" style="left: 50%;"></div>
+      <div xmlns="http://www.w3.org/1999/xhtml" class="bubble" style="left: 60%;"></div>
+      <div xmlns="http://www.w3.org/1999/xhtml" class="bubble" style="left: 70%;"></div>
+      <div xmlns="http://www.w3.org/1999/xhtml" class="bubble" style="left: 80%;"></div>
+      <div xmlns="http://www.w3.org/1999/xhtml" class="bubble" style="left: 90%;"></div>
+    </div>
+  </foreignObject>
+</svg>
