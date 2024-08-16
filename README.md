@@ -4,7 +4,6 @@
 https://github.com/user-attachments/assets/6c2aaf0d-8452-49c6-a5d7-7a28044683b6
 
 
-- 👋 Hi, I’m @venkateshkumarraju
 
 - 📫 How to reach me  raju.venkateshkumar@gmail.com
 
