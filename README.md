@@ -1,10 +1,13 @@
+# welcome to my profile
+
+
+https://github.com/user-attachments/assets/6c2aaf0d-8452-49c6-a5d7-7a28044683b6
+
+
 - 👋 Hi, I’m @venkateshkumarraju
-- 👀 I’m interested in  geographical infomation systems ,photogrammetry, drone piloting
-- 🌱 I’m currently learning  computer vision, machine learning 
-- 💞️ I’m looking to collaborate on 
+
 - 📫 How to reach me  raju.venkateshkumar@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 <!---
 venkateshkumarraju/venkateshkumarraju is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
