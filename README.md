@@ -3,7 +3,7 @@
   <img src="https://github.com/venkateshkumarraju/venkateshkumarraju/blob/main/name.svg"VENKATESH KUMAR RAJU" />
 </h1>
 
-## Geospatial Analyst | Innovator in 3D Mapping & GIS
+## Geospatial Analyst | 3D Mapping & GIS |Computer Vision
 
 ### Skills
 - Mastery in ArcGIS, QGIS, Python, MATLAB
