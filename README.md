@@ -34,9 +34,10 @@ I specialize in 3D mapping and GIS analysis, leveraging advanced tools like ArcG
 
 
 
+https://github.com/user-attachments/assets/f3022346-186b-44c3-9833-3067aa1de07d
 
 
-https://github.com/user-attachments/assets/6c2aaf0d-8452-49c6-a5d7-7a28044683b6
+
 
 
 
