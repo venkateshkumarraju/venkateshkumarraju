@@ -23,6 +23,7 @@
 <a href="https://www.kaggle.com/venkateshkumarraju" target="_blank">
 <img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
 </a>
+
 <a href="https://instagram.com/venkatesh_kumar_r" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
@@ -40,18 +41,25 @@
 I specialize in 3D mapping and GIS analysis, leveraging advanced tools like ArcGIS, QGIS, and Python.I’m currently learning OpenCV, pytorch , Tensor flow .I’m currently working on webODM   
 
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
-<div align="center">  
+<div align="left">  
 <a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 <a href="https://keras.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50" /></a>  
 <a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>  
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-
-<a href="" target="_blank"><img style="margin: 10px" src="" alt="" height="50" /></a> 
+<a href="https://www.qgis.org/" target="_blank"><img style="margin: 10px" src="https://qgis.github.io/qgis-uni-navigation/logo.svg" alt="Qgis" height="50" /></a> 
 <img  src="https://github.com/CyrisXD/CyrisXD/raw/master/assets/Github.png" alt="Github"/> 
-</div>
+<a href="https://www.arcgis.com/index.html" target="_blank"><img style="margin: 10px" src="https://www.arcgis.com/graphics/arcgis-online-icon.png" alt="Arcgis" height="50" /></a> 
+<a href="https://jupyter.org/" target="_blank"><img style="margin: 10px" src="https://jupyter.org/assets/logos/logomark-orangebody-greyplanets.svg" alt="jupyter_notebook" height="50" /></a> 
+<a href="https://matlab.mathworks.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/670px-Matlab_Logo.png" alt="matlab" height="50" /></a> 
+<a href="https://www.opendronemap.org/odm/" target="_blank"><img style="margin: 10px" src="https://opendronemap.org/wp-content/uploads/2018/07/odm-logo.svg"alt="opendronemap" height="50" /></a> 
+<a href="https://www.esri.com/en-us/arcgis/products/arcgis-drone2map/overview" target="_blank"><img style="margin: 10px" src="https://www.esri.com/content/dam/esrisites/en-us/common/icons/product-logos/Drone2Map.png"alt="Drone2map" height="50" /></a> 
+</div>  
 
+
+  
 ## Certifications
+
 - DGCA Certified Remote Pilot
 .
 
