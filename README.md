@@ -70,7 +70,10 @@ https://github.com/user-attachments/assets/f3022346-186b-44c3-9833-3067aa1de07d
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=venkateshkumarraju&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
-
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=venkateshkumarraju&&style=flat-square" align="center" />
+</div> 
+<br/>
 
 ### Contact Info
 Email: raju.venkateshkumar@gmail.com
