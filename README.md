@@ -75,13 +75,16 @@ https://github.com/user-attachments/assets/f3022346-186b-44c3-9833-3067aa1de07d
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=venkateshkumarraju&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=venkateshkumarraju&show_icons=true&count_private=true&hide_border=true"align="center" /></div>  
 
 <br/>  
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=venkateshkumarraju&&style=flat-square" align="center" />
 </div> 
+<div align="center">
+<img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=venkateshkumarraju&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
 <br/>
+
 
 ### Contact Info
 Email: raju.venkateshkumar@gmail.com
