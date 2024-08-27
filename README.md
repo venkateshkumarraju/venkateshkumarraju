@@ -2,7 +2,8 @@
 <h1 align="center">
   <img src="https://github.com/venkateshkumarraju/venkateshkumarraju/blob/main/name.svg"VENKATESH KUMAR RAJU" />
 </h1>
-I am Venkatesh Kumar Raju, with a passion for 3D mapping and GIS analysis. With expertise in ArcGIS, QGIS, Python, and MATLAB, I excel at transforming complex spatial data into actionable insights. As a DGCA Certified Remote Pilot, I bring a unique perspective to geospatial projects, combining technical proficiency with practical experience. Currently, I am expanding my knowledge in Open CV ,PyTorch, Keras, and TensorFlow to stay at the forefront of technological advancements.I’m currently working on webODM and learning SLAM,3D Reconstructions.   
+I am Venkatesh Kumar Raju, with a passion for 3D mapping and GIS analysis. With expertise in ArcGIS, QGIS, Python, and MATLAB, I excel at transforming complex spatial data into actionable insights. As a DGCA Certified Remote Pilot, I bring a unique perspective to geospatial projects, combining technical proficiency with practical experience. Currently, I am expanding my knowledge in Open CV ,PyTorch, Keras, and TensorFlow to stay at the forefront of technological advancements.I’m currently working on webODM and learning 3D Reconstruction and Simultaneous Localization and Mapping (SLAM)
+
 
 
 ### Skills
