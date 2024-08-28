@@ -71,7 +71,7 @@ I am Venkatesh Kumar Raju, with a passion for 3D mapping and GIS analysis. With 
 
 
 https://github.com/user-attachments/assets/f3022346-186b-44c3-9833-3067aa1de07d
-
+https://github.com/venkateshkumarraju/venkateshkumarraju/blob/main/assets/boy-is-finding-location-through-drone-camera-12188648-10088033
 
 
 ## Github Stats  
