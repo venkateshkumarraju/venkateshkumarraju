@@ -55,9 +55,10 @@ I am Venkatesh Kumar Raju, with a passion for 3D mapping and GIS analysis. With 
 <a href="https://www.esri.com/en-us/arcgis/products/arcgis-drone2map/overview" target="_blank"><img style="margin: 10px" src="https://www.esri.com/content/dam/esrisites/en-us/common/icons/product-logos/Drone2Map.png"alt="Drone2map" height="50" /></a> 
 <a href="https://github.com/venkateshkumarraju/venkateshkumarraju/blob/main/assets/drone-camera-animated-icon-download-in-lottie-json-gif-static-svg-file-formats--surveillance-aerial-photography-artificial-intelligence-pack-science-technology-icons-8992810.gif?raw=true" target="_blank"><img style="margin: 10px" src="assets/drone-camera-animated-icon-download-in-lottie-json-gif-static-svg-file-formats--surveillance-aerial-photography-artificial-intelligence-pack-science-technology-icons-8992810.gif"alt="Drone" height="50" /></a> 
 </div>  
-
+<h1 align="center">
 <img src="assets/boy-is-finding-location-through-drone-camera-12188648-10088033 (1).gif"/>
-  
+</h1>  
+
 ## Certifications
 
 [DGCA Certified Remote Pilot](https://github.com/venkateshkumarraju/venkateshkumarraju/blob/main/assets/certificate/35-VENKATESHKUMAR%20R%20GC_20240308_0001.pdf)
