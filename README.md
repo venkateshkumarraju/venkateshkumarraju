@@ -1,4 +1,4 @@
-# welcome to my profile
+
 <h1 align="center">
   <img src="https://github.com/venkateshkumarraju/venkateshkumarraju/blob/main/name.svg"VENKATESH KUMAR RAJU" />
 </h1>
