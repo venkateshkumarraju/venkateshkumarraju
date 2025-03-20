@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="margin: auto; display: block; background: linear-gradient(to right, #E3F2FD, #F3E5F5); position: relative; width: 100%; height: 100vh;" preserveAspectRatio="none" viewBox="0 0 500 350">
+  <defs>
+    <linearGradient id="waveGradient" x1="0" x2="1" y1="0" y2="0">
+      <stop stop-color="#90CAF9" offset="0"></stop> <!-- Slightly Darker Sky Blue -->
+      <stop stop-color="#BA68C8" offset="1"></stop> <!-- Slightly Darker Purple -->
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="100%" fill="url(#waveGradient)" opacity="0.2"/> <!-- Light Background -->
+  <g>
+    <!-- Layer 1 -->
+    <path d="M 0 175 Q 50 250 100 225 T 200 190 T 300 210 T 400 230 T 500 175 L 500 350 L 0 350 Z" fill="url(#waveGradient)" opacity="0.4">
+      <animate attributeName="d" dur="26s" repeatCount="indefinite" values="M 0 175 Q 50 250 100 225 T 200 190 T 300 210 T 400 230 T 500 175 L 500 350 L 0 350 Z;
+                                      M 0 185 Q 50 240 100 215 T 200 200 T 300 190 T 400 220 T 500 185 L 500 350 L 0 350 Z;
+                                      M 0 175 Q 50 250 100 225 T 200 190 T 300 210 T 400 230 T 500 175 L 500 350 L 0 350 Z;">
+      </animate>
+    </path>
+    
+    <!-- Layer 2 -->
+    <path d="M 0 195 Q 50 270 100 245 T 200 210 T 300 230 T 400 250 T 500 195 L 500 350 L 0 350 Z" fill="url(#waveGradient)" opacity="0.6">
+      <animate attributeName="d" dur="20s" repeatCount="indefinite" values="M 0 195 Q 50 270 100 245 T 200 210 T 300 230 T 400 250 T 500 195 L 500 350 L 0 350 Z;
+                                      M 0 205 Q 50 260 100 235 T 200 220 T 300 210 T 400 240 T 500 205 L 500 350 L 0 350 Z;
+                                      M 0 195 Q 50 270 100 245 T 200 210 T 300 230 T 400 250 T 500 195 L 500 350 L 0 350 Z;">
+      </animate>
+    </path>
+    
+    <!-- Layer 3 -->
+    <path d="M 0 215 Q 50 290 100 265 T 200 230 T 300 250 T 400 270 T 500 215 L 500 350 L 0 350 Z" fill="url(#waveGradient)" opacity="0.8">
+      <animate attributeName="d" dur="12s" repeatCount="indefinite" values="M 0 215 Q 50 290 100 265 T 200 230 T 300 250 T 400 270 T 500 215 L 500 350 L 0 350 Z;
+                                      M 0 225 Q 50 280 100 255 T 200 240 T 300 230 T 400 260 T 500 225 L 500 350 L 0 350 Z;
+                                      M 0 215 Q 50 290 100 265 T 200 230 T 300 250 T 400 270 T 500 215 L 500 350 L 0 350 Z;">
+      </animate>
+    </path>
+
+    <!-- Layer 4 -->
+    <path d="M 0 235 Q 50 310 100 285 T 200 250 T 300 270 T 400 290 T 500 235 L 500 350 L 0 350 Z" fill="url(#waveGradient)" opacity="1">
+      <animate attributeName="d" dur="16s" repeatCount="indefinite" values="M 0 235 Q 50 310 100 285 T 200 250 T 300 270 T 400 290 T 500 235 L 500 350 L 0 350 Z;
+                                      M 0 245 Q 50 300 100 275 T 200 260 T 300 250 T 400 280 T 500 245 L 500 350 L 0 350 Z;
+                                      M 0 235 Q 50 310 100 285 T 200 250 T 300 270 T 400 290 T 500 235 L 500 350 L 0 350 Z;">
+      </animate>
+    </path>
+  </g>
+</svg>
