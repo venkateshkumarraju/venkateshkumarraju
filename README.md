@@ -73,9 +73,6 @@ I am Venkatesh Kumar Raju, with a passion for 3D mapping and GIS analysis. With 
 
 
 
-https://github.com/user-attachments/assets/f3022346-186b-44c3-9833-3067aa1de07d
-
-
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=venkateshkumarraju&show_icons=true&count_private=true&hide_border=true"align="center" /></div>  
