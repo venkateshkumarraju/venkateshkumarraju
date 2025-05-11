@@ -12,6 +12,7 @@ I am Venkatesh Kumar Raju, with a passion for 3D mapping and GIS analysis. With 
 - DGCA Certified Remote Pilot
 - Proficient in OpenCV
 - Deep Learning Enthusiast (Pytorch, Keras, TensorFlow)
+- web application developement(Flask)
 
 ## Connect with me  
 <div align="center">
